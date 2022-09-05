@@ -44,7 +44,7 @@ https://www.underarmour.nl/nl-nl/c/nieuwe-producten/
 
   #### Screenshot(s) van de tweede pagina (small screen):
   detailpagina 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/detailpaginaua.jpg" width="375px" alt="detailpagina">
  
 </details>
 
